@@ -2,7 +2,7 @@
 // // const Bot = new Discord.Client();
 // const client = new Discord.Client({ intents: ["GUILD_MEMBERS", "GUILD_MEMBER_ADD"] })
 
-// const Token = 'ODk2Nzk0NDU5MzQ0MzU1MzU4.YWMS7A.9kV0XDEDRLkR_3N4z5T3dp5bWJE';
+// const Token = 'TOKEN ID';
 
 // bot.on('ready', () => {
 //     console.log('This bot is online');
